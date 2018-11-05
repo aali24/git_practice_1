@@ -1,2 +1,2 @@
 # git_practice_1
-Abdi please delete 
+Abdi please delete  , did some corrections
